@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-02-16 17:46:04.765000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 1473
+    :timestamp: 2012-02-16 18:31:20.190000 -05:00
+files_to_retain: 0
